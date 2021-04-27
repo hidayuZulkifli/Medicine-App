@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Medicine App</string>
+    <string name="enter_app">Enter App</string>
+    <string name="welcome_to_medicine_app">Welcome to Medicine App</string>
+    <string name="todo">TODO</string>
+    <string name="select_your_need">Select your need</string>
+    <string name="medicine_reminder">Medicine</string>
+    <string name="todoone">TODOONE</string>
+    <string name="insulin">Insulin</string>
+    <string name="_1_dos">1 dos</string>
+    <string name="name">Name</string>
+    <string name="madicine_name">Madicine Name</string>
+    <string name="TODOTWO">TODOTWO</string>
+    <string name="as_written_on_the_medicine_package">As written on the medicine package</string>
+    <string name="medicine_name">Medicine Name:</string>
+    <string name="follow_medical_instruction">Follow medical instruction</string>
+    <string name="dosage">Dosage:</string>
+    <string name="occurrence">Occurrence:</string>
+    <string name="instruction">Instruction:</string>
+    <string name="take_before_meals">Take before meals</string>
+    <string name="take_after_meals">Take after meals</string>
+    <string name="add_medicine_reminder">Change Medicine Reminder</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="set_alarm_timer">Set Alarm Timer</string>
+    <string name="done">Done</string>
+    <string name="time">- no alarm set -</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="medicinename">- empty -</string>
+    <string name="editdosage">editDosage</string>
+    <string name="editoccurence">editOccurence</string>
+    <string name="editinstruction">editInstruction</string>
+    <string name="textview"></string>
+    <string-array name="dosage">
+        <item>tablet</item>
+        <item>mg</item>
+        <item>ml</item>
+        <item>drops</item>
+        <item>unit</item>
+    </string-array>
+    <string-array name="occurrence">
+        <item>Once a day</item>
+        <item>Twice a day</item>
+        <item>Thrice a day</item>
+        <item>4 times a day</item>
+        <item>5 times a day</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textviewtwo">- empty information -</string>
+    <string name="textviewsecond"></string>
+    <string name="todofive">TODO</string>
+    <string name="todotwo">TODO</string>
+    <string name="medicine_list">Medicine</string>
+    <string name="todothree">TODO</string>
+    <string name="list">Image</string>
+    <string name="reminder">Reminder</string>
+    <string name="todofour">TODO</string>
+    <string name="appointment">Appointment</string>
+    <string name="medical_info">Medical Info</string>
+    <string name="todoseven">TODO</string>
+    <string name="more">Edit Medicine</string>
+    <string name="add_image">ADD IMAGE</string>
+    <string name="todosix">TODO</string>
+    <string name="textview19" />
+    <string name="textview21" />
+    <string name="appointmentname">Appointment Type:</string>
+    <string name="editappointmenttype"> </string>
+    <string name="venue">Venue:</string>
+    <string name="editvenue"> </string>
+    <string name="drname">Doctor Name:</string>
+    <string name="editdrname"> </string>
+    <string name="viewapppointment">- empty -</string>
+    <string name="viewappointmentInfo">- empty information -</string>
+    <string name="buttoneditappointment">Edit Appointment</string>
+    <string name="medicineadvice">
+        Medicine Advices
+    </string>
+    <string name="medicineadviceinfo">
+        Please follow all instructions given by expert health guidance. Just ask even multiple times until you are confirm with the
+        information of your medicine.
+    </string>
+    <string name="medicaladvice">
+        Medical Advices
+    </string>
+    <string name="medicaladviceinfo">
+        Lets have a healthy life style. You shoulnt assume your doctor is providing you with optimal medical advice. By optimal mean that:
+        (1) Grounded in the most recent medical knowledge. (2) Adapted to your preferences and values. (3) Made after helping you consider
+        the various options, along with their risk and benefits. Doctor are generally trying their best. But its hard for a single person
+        to keep up with all latest knowledge, plus doctors tend to get into practice habits that arent necessary in your best interest.
+    </string>
+    <string name="todotwelve">TODO</string>
+</resources>
